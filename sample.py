@@ -3,4 +3,4 @@ b=10
 c=a+b
 print("The result is", c)
 print("Update code")
-Print("Fantastic job")
+print("Fantastic job")
