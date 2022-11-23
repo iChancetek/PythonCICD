@@ -1,4 +1,4 @@
-a=11
+a=28
 b=10
 c=a+b
 print("The result is", c)
